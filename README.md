@@ -1,3 +1,8 @@
+## Live Demo
+Play the game online: [Quiz App](https://madhusudhanch.github.io/quiz-app/)
+
+---
+
 # 📝 Quiz App
 
 An **interactive Quiz App** built using **HTML, CSS, and JavaScript**.  
